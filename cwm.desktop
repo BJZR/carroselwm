@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=CWM
+Comment=Window Manager Personal - Minimalista y eficiente
+Exec=cwm
+Type=XSession
+DesktopNames=CWM

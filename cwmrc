@@ -1,0 +1,9 @@
+mod_key=Super
+key_left=Left
+key_right=Right
+key_close=q
+key_hide=h
+key_max=m
+key_menu=Tab
+terminal=alacritty
+launcher=dmenu_run
